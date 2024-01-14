@@ -25,7 +25,7 @@ def split_text(text, max_size):
 conn = http.client.HTTPSConnection("api.zhangsan.cloud")
 headers = {
     'Accept': 'application/json',
-    'Authorization': 'Bearer sk-zkyXwDwSNMZjhCLXFfA62eC9BbDb4aBb82F69431CaA47c77',
+    'Authorization': 'Bearer sk-zkyXXXXXXXXXXXXXXXaA47c77',
     'User-Agent': 'Apifox/1.0.0 (https://apifox.com)',
     'Content-Type': 'application/json'
 }
